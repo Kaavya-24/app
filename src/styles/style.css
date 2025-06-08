@@ -1,4 +1,4 @@
-/* Your external CSS */
+/* Your external CSS 
 * {
   box-sizing: border-box;
   margin: 0;
@@ -102,4 +102,8 @@ footer a {
 footer a:hover {
   color: #fff;
 }
-
+*/
+body
+{
+    background-color:azure;
+}
