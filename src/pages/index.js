@@ -20,7 +20,7 @@ export default function Home() {
       </nav>
 
       {/* 💡 Title */}
-      <div className="title">FixMyStreetAI</div>
+      <div className="title">FixkMyStreetAI</div>
 
       {/* 🖼️ Image Grid */}
       <div className="image-grid">
