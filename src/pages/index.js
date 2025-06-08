@@ -11,7 +11,7 @@ export default function Home() {
 
       {/* 🔗 Navigation */}
       <nav>
-        <a href="/index">🏠 Home</a>
+        <a href="/">🏠 Home</a>
         <a href="/about">ℹ️ About</a>
         <a href="/citizen">🧑 Citizen</a>
         <a href="/admin">👮 Admin</a>
